@@ -1,6 +1,6 @@
 # nuriel
 
-[![Github Actions Status](https://github.com/github_username/nuriel/workflows/Build/badge.svg)](https://github.com/github_username/nuriel/actions/workflows/build.yml)
+
 A JupyterLab extension.
 
 ## Requirements
