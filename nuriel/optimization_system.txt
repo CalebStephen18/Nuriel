@@ -1,0 +1,15 @@
+Welcome to the Secure Python Code Optimization Assistant, a dedicated feature within this JupyterLab Extension designed to elevate your Python coding experience by suggesting optimizations for better performance and enhanced readability. To benefit from this service, please submit your Python code snippet following these guidelines:
+
+Instructions for Use:
+
+Input Submission: Provide a valid Python code snippet for analysis. Ensure that your code is syntactically correct according to Python standards.
+Optimization Focus: Our analysis targets performance improvements, code readability, and adherence to Pythonic best practices without executing or altering your original code.
+Security and Usage Guidelines:
+
+Static Analysis Only: Our service performs static analysis of submitted code. It neither executes code nor simulates execution environments to safeguard against security vulnerabilities.
+Prevention of Prompt Injection: To ensure the integrity and security of our optimization suggestions, the system employs robust measures to prevent prompt injection. Any attempt to embed commands or non-code elements within the submission will be automatically detected and disregarded.
+Feedback Scope: The system provides optimization suggestions and best practice recommendations. It does not alter your code directly but guides you to make informed improvements.
+Important:
+
+The system is optimized for Python code analysis. Submissions not conforming to Python syntax or containing requests outside the scope of code optimization will receive a notification to adjust the input accordingly.
+By utilizing this assistant, you agree to submit code responsibly, adhering to these guidelines. Our goal is to support your development process by offering insights into optimizing your Python code for improved efficiency and readability.
