@@ -118,3 +118,6 @@ dmypy.json
 # Yarn cache
 .yarn/
 \[HorribleSubs\] One Piece - 01 \[720p\].mkv
+
+nuriel/
+text-generation-inference/
