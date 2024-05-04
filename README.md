@@ -1,7 +1,5 @@
-# nuriel
+# Nuriel - A JupyterLab extension for code optimization and summarization
 
-
-A JupyterLab extension.
 
 ## Requirements
 
